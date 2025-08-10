@@ -34,4 +34,4 @@ This repository is my personal learning log where I:
 ## 🚀 How to Use
 Clone the repository:
 ```bash
-https://github.com/bhinav-a/Deep-Learning
+git clone https://github.com/bhinav-a/Deep-Learning
