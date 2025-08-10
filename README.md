@@ -34,5 +34,4 @@ This repository is my personal learning log where I:
 ## 🚀 How to Use
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/deep-learning-daily.git
-cd deep-learning-daily
+https://github.com/bhinav-a/Deep-Learning
